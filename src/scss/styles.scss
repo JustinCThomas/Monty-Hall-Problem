@@ -1,0 +1,17 @@
+@import 'reset';
+
+body {
+  background: steelblue;
+  color: white;
+
+  .container {
+    text-align: center;
+    font-size: 0px;
+    .door {
+      display: inline-block;
+      background: brown;
+      height: 100px;
+      width: 100px;
+    }
+  }
+}
